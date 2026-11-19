@@ -1,3 +1,6 @@
+# Indoor-Hospital-Equipment-Detection
+Code and materials for hospital equipment detection metrics, trajectory evaluation, 2D region mapping, and latency analysis, with reference tables and documented data provenance.
+
 # File and Module Reference
 
 All paths are relative to this README's directory. Filename patterns group files that serve the same function.
