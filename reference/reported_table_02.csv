@@ -1,0 +1,6 @@
+﻿data_origin,Class,Class ID,Experiment train GT,Validation GT,Test GT
+REPORTED_REFERENCE,Hospital bed,21,580,308,167
+REPORTED_REFERENCE,Bedside monitor,2,896,489,259
+REPORTED_REFERENCE,Infusion pump,24,138,64,35
+REPORTED_REFERENCE,Ventilator,52,112,56,40
+REPORTED_REFERENCE,Wheelchair,55,23,10,3

@@ -1,0 +1,21 @@
+{
+  "data_origin": "SEE_PROVENANCE_TXT",
+  "status": "passed",
+  "seed": 42,
+  "checks": {
+    "detection_GT": 504,
+    "computed_scale_recall_rows": 45,
+    "scale_recall_equals_rounded_reference": true,
+    "fixed_case_IoU_rows": 15,
+    "controlled_frames": 1080,
+    "visible_GT": 2115,
+    "latent_GT": 2160,
+    "GT_tracks": 12,
+    "identity_region_cells": 36,
+    "runtime_configurations": 5,
+    "runtime_frames_each": 200,
+    "runtime_target_mean_median_p95_verified": true
+  },
+  "source_information": "../provenance.txt",
+  "metric_engine": "unchanged pinned TrackEval subset for Identity/CLEAR/HOTA"
+}

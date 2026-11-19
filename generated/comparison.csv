@@ -1,0 +1,106 @@
+﻿data_origin,section,key,metric,reported_reference,computed,difference,interpretation
+SEE_PROVENANCE_TXT,detection,B0-full/Hospital bed/Small,Recall_percent,14.29,14.285714285714285,-0.004285714285714448,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Hospital bed/Medium,Recall_percent,38.46,38.46153846153847,0.0015384615384661515,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Hospital bed/Large,Recall_percent,81.34,81.34328358208955,0.0032835820895513734,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Bedside monitor/Small,Recall_percent,62.99,62.98701298701299,-0.0029870129870133155,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Bedside monitor/Medium,Recall_percent,72.94,72.94117647058823,0.0011764705882342241,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Bedside monitor/Large,Recall_percent,65.0,65.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Infusion pump/Small,Recall_percent,45.0,45.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Infusion pump/Medium,Recall_percent,69.23,69.23076923076923,0.0007692307692224176,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Infusion pump/Large,Recall_percent,50.0,50.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Ventilator/Small,Recall_percent,0.0,0.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Ventilator/Medium,Recall_percent,46.15,46.15384615384615,0.0038461538461547207,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Ventilator/Large,Recall_percent,44.0,44.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Wheelchair/Medium,Recall_percent,100.0,100.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,B0-full/Wheelchair/Large,Recall_percent,50.0,50.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Hospital bed/Small,Recall_percent,14.29,14.285714285714285,-0.004285714285714448,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Hospital bed/Medium,Recall_percent,15.38,15.384615384615385,0.004615384615384244,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Hospital bed/Large,Recall_percent,83.58,83.5820895522388,0.002089552238800252,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Bedside monitor/Small,Recall_percent,62.99,62.98701298701299,-0.0029870129870133155,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Bedside monitor/Medium,Recall_percent,74.12,74.11764705882354,-0.0023529411764684482,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Bedside monitor/Large,Recall_percent,55.0,55.00000000000001,7.105427357601002e-15,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Infusion pump/Small,Recall_percent,35.0,35.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Infusion pump/Medium,Recall_percent,61.54,61.53846153846154,-0.001538461538459046,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Infusion pump/Large,Recall_percent,0.0,0.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Ventilator/Small,Recall_percent,0.0,0.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Ventilator/Medium,Recall_percent,30.77,30.76923076923077,-0.000769230769229523,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Ventilator/Large,Recall_percent,16.0,16.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Wheelchair/Medium,Recall_percent,0.0,0.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A2/Wheelchair/Large,Recall_percent,0.0,0.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Hospital bed/Small,Recall_percent,14.29,14.285714285714285,-0.004285714285714448,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Hospital bed/Medium,Recall_percent,26.92,26.923076923076923,0.003076923076921645,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Hospital bed/Large,Recall_percent,82.09,82.08955223880598,-0.00044776119402456516,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Bedside monitor/Small,Recall_percent,75.97,75.97402597402598,0.004025974025978485,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Bedside monitor/Medium,Recall_percent,75.29,75.29411764705883,0.004117647058819784,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Bedside monitor/Large,Recall_percent,55.0,55.00000000000001,7.105427357601002e-15,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Infusion pump/Small,Recall_percent,55.0,55.00000000000001,7.105427357601002e-15,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Infusion pump/Medium,Recall_percent,69.23,69.23076923076923,0.0007692307692224176,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Infusion pump/Large,Recall_percent,0.0,0.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Ventilator/Small,Recall_percent,0.0,0.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Ventilator/Medium,Recall_percent,23.08,23.076923076923077,-0.003076923076921645,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Ventilator/Large,Recall_percent,12.0,12.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Wheelchair/Medium,Recall_percent,0.0,0.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,detection,A4/Wheelchair/Large,Recall_percent,0.0,0.0,0.0,Class and size count comparison
+SEE_PROVENANCE_TXT,fixed_cases,Q01/B0-full,IoU,0.967,0.9670000000000003,3.3306690738754696e-16,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q01/A2,IoU,0.914,0.9140000000000003,2.220446049250313e-16,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q01/A4,IoU,0.901,0.9009999999999999,-1.1102230246251565e-16,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q02/B0-full,IoU,0.931,0.9309999999999996,-4.440892098500626e-16,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q02/A2,IoU,0.913,0.9129999999999998,-2.220446049250313e-16,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q02/A4,IoU,0.909,0.909,0.0,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q03/B0-full,IoU,0.0,0.0,0.0,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q03/A2,IoU,0.0,0.0,0.0,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q03/A4,IoU,0.0,0.0,0.0,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q04/B0-full,IoU,0.0,0.0,0.0,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q04/A2,IoU,0.0,0.0,0.0,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q04/A4,IoU,0.119,0.11900000000000004,4.163336342344337e-17,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q05/B0-full,IoU,0.692,0.692,0.0,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q05/A2,IoU,0.0,0.0,0.0,Rectangle geometry
+SEE_PROVENANCE_TXT,fixed_cases,Q05/A4,IoU,0.0,0.0,0.0,Rectangle geometry
+SEE_PROVENANCE_TXT,tracking,oracle_FrameIoU_profile,IDF1,93.24,93.14420803782507,-0.09579196217492836,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_FrameIoU_profile,HOTA,96.24,96.23213430196117,-0.007865698038827418,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_FrameIoU_profile,MOTA,99.91,99.90543735224587,-0.0045626477541276245,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_FrameIoU_profile,IDSW,2.0,2,0.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_FrameIoU_profile,FP,0.0,0,0.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_FrameIoU_profile,FN,0.0,0,0.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_FrameIoU_profile,Frag,0.0,0,0.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_ByteTrack_profile,IDF1,96.71,99.45613620241191,2.7461362024119182,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_ByteTrack_profile,HOTA,98.25,99.46309768662162,1.213097686621623,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_ByteTrack_profile,MOTA,99.91,99.90543735224587,-0.0045626477541276245,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_ByteTrack_profile,IDSW,1.0,1,0.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_ByteTrack_profile,FP,0.0,0,0.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_ByteTrack_profile,FN,1.0,1,0.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,oracle_ByteTrack_profile,Frag,1.0,1,0.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_FrameIoU_profile,IDF1,10.09,5.00208420175073,-5.08791579824927,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_FrameIoU_profile,HOTA,14.25,11.89755520600147,-2.3524447939985293,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_FrameIoU_profile,MOTA,5.15,4.964539007092199,-0.18546099290780127,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_FrameIoU_profile,IDSW,3.0,7,4.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_FrameIoU_profile,FP,86.0,86,0.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_FrameIoU_profile,FN,1917.0,1917,0.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_FrameIoU_profile,Frag,2.0,0,-2.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_ByteTrack_profile,IDF1,13.49,12.889273356401384,-0.600726643598616,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_ByteTrack_profile,HOTA,16.64,18.196390829743482,1.5563908297434814,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_ByteTrack_profile,MOTA,7.0,6.950354609929079,-0.04964539007092128,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_ByteTrack_profile,IDSW,1.0,2,1.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_ByteTrack_profile,FP,24.0,24,0.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_ByteTrack_profile,FN,1942.0,1942,0.0,Profile metric comparison
+SEE_PROVENANCE_TXT,tracking,e2e_ByteTrack_profile,Frag,5.0,0,-5.0,Profile metric comparison
+SEE_PROVENANCE_TXT,runtime,CPU_640_FP32,mean_ms,633.4,633.4000000000001,1.1368683772161603e-13,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,CPU_640_FP32,P50_ms,601.19,601.19,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,CPU_640_FP32,P95_ms,806.36,806.36,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,CPU_640_FP32,E2E_FPS,1.58,1.5787811809283232,-0.0012188190716768688,Derived from rounded mean; rounding residual retained
+SEE_PROVENANCE_TXT,runtime,GPU_640_FP32,mean_ms,108.45,108.45,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,GPU_640_FP32,P50_ms,108.79,108.79,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,GPU_640_FP32,P95_ms,148.18,148.18,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,GPU_640_FP32,E2E_FPS,9.22,9.220839096357768,0.0008390963577671329,Derived from rounded mean; rounding residual retained
+SEE_PROVENANCE_TXT,runtime,GPU_640_FP16,mean_ms,56.65,56.65,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,GPU_640_FP16,P50_ms,55.85,55.85,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,GPU_640_FP16,P95_ms,63.31,63.31,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,GPU_640_FP16,E2E_FPS,17.65,17.6522506619594,0.0022506619594011568,Derived from rounded mean; rounding residual retained
+SEE_PROVENANCE_TXT,runtime,GPU_512_FP16,mean_ms,46.95,46.95000000000001,7.105427357601002e-15,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,GPU_512_FP16,P50_ms,46.19,46.19,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,GPU_512_FP16,P95_ms,52.7,52.7,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,GPU_512_FP16,E2E_FPS,21.3,21.299254526091584,-0.0007454739084167272,Derived from rounded mean; rounding residual retained
+SEE_PROVENANCE_TXT,runtime,GPU_416_FP16,mean_ms,43.85,43.85,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,GPU_416_FP16,P50_ms,43.51,43.51,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,GPU_416_FP16,P95_ms,49.1,49.1,0.0,Duration series comparison
+SEE_PROVENANCE_TXT,runtime,GPU_416_FP16,E2E_FPS,22.8,22.805017103762825,0.005017103762824604,Derived from rounded mean; rounding residual retained

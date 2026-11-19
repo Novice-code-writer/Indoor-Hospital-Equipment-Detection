@@ -1,0 +1,13 @@
+﻿Results Summary
+Seed: 42; detection GT: 504; sequence frames: 1080; visible GT: 2115; latent GT: 2160.
+Source information: ../provenance.txt
+oracle_FrameIoU_profile: IDF1=93.14%, HOTA=96.23%, MOTA=99.91%, Full-GT dwell MAE=0.352 s
+oracle_ByteTrack_profile: IDF1=99.46%, HOTA=99.46%, MOTA=99.91%, Full-GT dwell MAE=0.106 s
+e2e_FrameIoU_profile: IDF1=5.00%, HOTA=11.90%, MOTA=4.96%, Full-GT dwell MAE=3.889 s
+e2e_ByteTrack_profile: IDF1=12.89%, HOTA=18.20%, MOTA=6.95%, Full-GT dwell MAE=3.724 s
+CPU 640 FP32: FPS=1.579, mean=633.40 ms, P95=806.36 ms
+GPU 640 FP32: FPS=9.221, mean=108.45 ms, P95=148.18 ms
+GPU 640 FP16: FPS=17.652, mean=56.65 ms, P95=63.31 ms
+GPU 512 FP16: FPS=21.299, mean=46.95 ms, P95=52.70 ms
+GPU 416 FP16: FPS=22.805, mean=43.85 ms, P95=49.10 ms
+Five-class AP: detection/computed_class_ap.csv

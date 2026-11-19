@@ -1,0 +1,9 @@
+﻿data_origin,Dataset,Partition,Images / frames,GT boxes
+REPORTED_REFERENCE,Patients,Original train pool,3091,36383
+REPORTED_REFERENCE,Patients,Experiment train,1546,18203
+REPORTED_REFERENCE,Patients,Validation,882,10195
+REPORTED_REFERENCE,Patients,Test,442,5259
+REPORTED_REFERENCE,Controlled,Visible GT,1080,2115
+REPORTED_REFERENCE,Controlled,Latent GT,1080,2160
+REPORTED_REFERENCE,OpenRoboCare,GoPro,2697,N/A
+REPORTED_REFERENCE,OpenRoboCare,Camera2 smoke,1200,N/A

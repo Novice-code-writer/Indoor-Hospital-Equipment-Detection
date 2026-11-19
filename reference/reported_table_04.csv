@@ -1,0 +1,7 @@
+﻿data_origin,Sequence,Condition,Frames,GT tracks,Visible GT
+REPORTED_REFERENCE,S01,translation,180,2,360
+REPORTED_REFERENCE,S02,scale variation,180,2,360
+REPORTED_REFERENCE,S03,partial occlusion,180,2,360
+REPORTED_REFERENCE,S04,short disappearance,180,2,350
+REPORTED_REFERENCE,S05,re entry,180,2,325
+REPORTED_REFERENCE,S06,same class crossing,180,2,360
